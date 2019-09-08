@@ -24,3 +24,7 @@ section {
 footer {
   padding-bottom: 20px;
 }
+
+#img {
+  width: 80px;
+}
